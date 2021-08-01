@@ -5,8 +5,8 @@
 ## Badges
 | Badge Name | Status |
 |----|----|
-|Build|[![Compile-Linux](https://github.com/Mazude/Final/actions/workflows/Compile.yml/badge.svg)](https://github.com/Mazude/Final/actions/workflows/Compile.yml)
-|Cppcheck|[![Cppcheck](https://github.com/Mazude/Final/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/Mazude/Final/actions/workflows/cpp_check.yml)
+|Build|
+|Cppcheck|
 ## Design Approach
 | Requirement |Implementation Idea |
 |-------------|------------------------|
