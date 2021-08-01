@@ -1,4 +1,4 @@
-PROJ_NAME =Car Heater Application Using ATMega328
+PROJ_NAME =310992_Embedded_CaseStudy
 
 BUILD_DIR = Build
 
