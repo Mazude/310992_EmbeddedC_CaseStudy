@@ -5,7 +5,7 @@
 ## Badges
 | Badge Name | Status |
 |----|----|
-|Build|
+|Build|[![Compile-Linux](https://github.com/Mazude/310992_EmbeddedC_CaseStudy/actions/workflows/Compile.yml/badge.svg)](https://github.com/Mazude/310992_EmbeddedC_CaseStudy/actions/workflows/Compile.yml)
 |Cppcheck|
 ## Design Approach
 | Requirement |Implementation Idea |
