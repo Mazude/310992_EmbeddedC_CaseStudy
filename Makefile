@@ -1,4 +1,4 @@
-PROJ_NAME = Project
+PROJ_NAME = 310992_EmbeddedC_CaseStudy
 
 BUILD_DIR = Build
 
