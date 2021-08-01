@@ -2,6 +2,25 @@
 
 # CAR HEATER APPLICATION USING ATMEGA 328
 
+
+## Instructions for Building of Project : 
+
+### a) VSCode Implementation:
+1. To implement the project in VSCode open the folder in VSCode and run the make file using terminal.
+2. The .elf file is created in a folder named Build.
+3. Open Simulide and open "circuit.simu" file from "Open Circuit" option. (Do not directly double click on the file, it might throw pugin errors).
+4. Load the firmware(.elf file) from the "Build" folder into the microcontroller.
+5. Check the conditions by switching the power supply ON.
+
+### b) CodeBlocks Implementation:
+1. Download the .rar file from the repository main branch.
+2. Extract the files to a local directory in your system and open the file "310992_EmbeddedC_CaseStudy.cbp" file in CodeBlocks.
+3. Build the target in CodeBlocks and check for any errors or warnings.
+4. Open Simulide and open "circuit.simu" file from "Open Circuit" option. (Do not directly double click on the file, it might throw pugin errors).
+5. Load the firmware (.hex file) from bin/Debug folder into the Microcontroller.
+6. Check the conditions by switching the power supply ON.
+
+
 ## Badges
 | Badge Name | Status |
 |----|----|
