@@ -26,8 +26,9 @@
 |----|----|
 |Build|[![Compile-Linux](https://github.com/Mazude/310992_EmbeddedC_CaseStudy/actions/workflows/Compile.yml/badge.svg)](https://github.com/Mazude/310992_EmbeddedC_CaseStudy/actions/workflows/Compile.yml)
 |Cppcheck|[![Cppcheck](https://github.com/Mazude/310992_EmbeddedC_CaseStudy/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/Mazude/310992_EmbeddedC_CaseStudy/actions/workflows/cpp_check.yml)
-|Code Quality Score|
-|Code Grade|
+|Code Quality Score|[![Code Quality Score](https://www.code-inspector.com/project/25937/score/svg)](https://www.code-inspector.com/project/25937/score/svg)
+|Code Grade|[![Code Grade](https://www.code-inspector.com/project/25937/status/svg)](https://www.code-inspector.com/project/25937/status/svg)
+
 ## Design Approach
 | Requirement |Implementation Idea |
 |-------------|------------------------|
