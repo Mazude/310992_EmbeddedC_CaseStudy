@@ -6,11 +6,13 @@
 ## Instructions for Building of Project : 
 
 ### a) VSCode Implementation:
-1. To implement the project in VSCode open the folder in VSCode and run the make file using terminal.
-2. The .elf file is created in a folder named Build.
-3. Open Simulide and open "circuit.simu" file from "Open Circuit" option. (Do not directly double click on the file, it might throw pugin errors).
-4. Load the firmware(.elf file) from the "Build" folder into the microcontroller.
-5. Check the conditions by switching the power supply ON.
+1. To implement the project in VSCode open the folder in VSCode by cloning the repository. 
+2. Make necessary changes in the c_cpp_properties.json file by adding the path of the AVR GCC Compiler into the workspace path and enabling other extensions that are required.
+3. Run the make file using terminal.
+4. The .elf file is created inside a folder named Build.
+5. Open Simulide and open "circuit.simu" file from "Open Circuit" option. (Do not directly double click on the file, it might throw pugin errors).
+6. Load the firmware(.elf file) from the "Build" folder into the microcontroller.
+7. Check the conditions by switching the power supply ON.
 
 ### b) CodeBlocks Implementation:
 1. Download the .rar file from the repository main branch.
